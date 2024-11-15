@@ -1,5 +1,3 @@
 
-- attributs 
-- abstract controller
-- class response
+- attributs  
 - repositoyr

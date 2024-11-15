@@ -13,6 +13,7 @@ class Kernel
         $type = ucfirst($type);
 
         $controller = "App\\Controller\\".$type.'Controller';
+
         $controller = new $controller();
         $controller->$action();
 
